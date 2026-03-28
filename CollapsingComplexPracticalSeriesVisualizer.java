@@ -1,5 +1,4 @@
 import static java.lang.IO.*;
-void main ()
-{
-	println ("Математика!");
+void main() {
+	println("Математика!");
 }
