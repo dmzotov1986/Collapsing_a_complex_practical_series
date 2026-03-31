@@ -1,4 +1,4 @@
-a = 3
+a = 2
 b = 7
 c = [1050]
 x = []
@@ -14,4 +14,4 @@ for(i = 0; i < b - a + 1; ++i) {
 for(i = 0; i < b - a + 1; ++i) {
 	e[i] *= c[0] / s_e
 }
-document.write("a: ", a, "<br>b: ", b, "<br>i: ", 0, "..", i - 1, "<br>c: ", c, "<br>x: ", x, "<br>d: ", d, "<br>e: ", e)
+document.write("a: ", a, "<br>b: ", b, "<br>i: ", 0, "..", i - 1, "<br>c: ", c, "<br>x: ", x, "<br>d: ", d, "<br>e: ", e, "<br>s_e: ", s_e)
