@@ -11,4 +11,4 @@ for (i = 0; i < b - a + 1; ++i) {
 for (i = 0; i < b - a + 1; ++i) {
 	e[i] *= c0 / s_e
 }
-document.write("<code>a: ", a, "<br>b: ", b, "<br>i: ", 0, "..", i - 1, "<br>c0: ", c0, "<br>d: ", d, "<br>e: ", e, "<br>s_e: ", s_e, "</code><br>")
+document.write("<var>a</var>: ", a, "<br><var>b</var>: ", b, "<br><var>i</var>: ", 0, "..", i - 1, "<br><var>c0</var>: ", c0, "<br><var>d</var>: ", d, "<br><var>e</var>: ", e, "<br><var>s_e</var>: ", s_e, "<br>")
