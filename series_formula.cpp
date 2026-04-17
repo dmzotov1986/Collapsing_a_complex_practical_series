@@ -1,2 +1,6 @@
-
-print("Математика!")
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << "Математика!";
+}
