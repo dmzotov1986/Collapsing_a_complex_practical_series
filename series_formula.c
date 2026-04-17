@@ -1,6 +1,7 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
+#include <stdlib.h>
 int main()
 {
-	cout << "Математика!";
+	printf("Математика!");
+	return EXIT_SUCCESS;
 }
